@@ -1,0 +1,14 @@
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\bin\Debug\netcoreapp3.1\ListOOP.exe
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\bin\Debug\netcoreapp3.1\ListOOP.deps.json
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\bin\Debug\netcoreapp3.1\ListOOP.runtimeconfig.json
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\bin\Debug\netcoreapp3.1\ListOOP.runtimeconfig.dev.json
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\bin\Debug\netcoreapp3.1\ListOOP.dll
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\bin\Debug\netcoreapp3.1\ListOOP.pdb
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.csproj.AssemblyReference.cache
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.AssemblyInfoInputs.cache
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.AssemblyInfo.cs
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.csproj.CoreCompileInputs.cache
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.dll
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.pdb
+D:\dev\METRODATA1\koding\ListOOP\ListOOP\obj\Debug\netcoreapp3.1\ListOOP.genruntimeconfig.cache
